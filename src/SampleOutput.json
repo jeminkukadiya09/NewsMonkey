@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Daniel Wiessner,Rajesh Singh",
+            "title": "Pilots union sues Southwest Airlines, alleges violation of federal labor law - Reuters",
+            "description": "A union representing Southwest Airlines Co <a href=\"https://www.reuters.com/companies/LUV.N\" target=\"_blank\">(LUV.N)</a> pilots has filed a lawsuit challenging forced time off and other changes to working conditions imposed by the airline during the COVID-19 …",
+            "url": "https://www.reuters.com/legal/government/lawsuit-accuses-southwest-airlines-flouting-union-bargaining-duties-during-2021-08-31/",
+            "urlToImage": "https://www.reuters.com/resizer/tcV_dHqlcGiNYtfJrwwBmT3qvTE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/24TUVC7OXBIYNF436UIACKJDQQ.jpg",
+            "publishedAt": "2021-09-01T03:11:00Z",
+            "content": "The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,… [+2345 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KIRO Seattle"
+            },
+            "author": "KIRO 7 News Staff",
+            "title": "Seattle Children’s announces first patient death from COVID-19 - KIRO Seattle",
+            "description": "",
+            "url": "https://www.kiro7.com/news/local/seattle-childrens-announces-first-patient-death-covid-19/45HHARBPWRHRBISXY5YMHCP3PA/",
+            "urlToImage": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/NINFL4LOPVWEBYICV4URHMAXHY.jpg",
+            "publishedAt": "2021-09-01T02:39:00Z",
+            "content": "SEATTLE — Seattle Childrens Hospital confirmed Tuesday its first patient death from COVID-19.\r\nDr. John McGuire who works in the Pediatric Intensive Care Unit at Seattle Childrens said in a statement… [+878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "India Covid: Economy sees record growth during deadly wave - BBC News",
+            "description": "The country suffered a devastating Covid spike in April and May but looser pandemic curbs still drove growth.",
+            "url": "https://www.bbc.com/news/business-58390291",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/22A9/production/_120337880_gettyimages-1234943885.jpg",
+            "publishedAt": "2021-09-01T02:34:46Z",
+            "content": "India's economy rebounded at a record rate in the three months to the end of June even as a devastating second wave of Covid-19 hit the country.\r\nLooser pandemic curbs allowed for more economic activ… [+1793 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Hannah Knowles, Timothy Bella",
+            "title": "Ohio judge orders hospital to give ivermectin to covid patient Jeffrey Smith after wife's lawsuit - The Washington Post",
+            "description": "Butler County Judge J. Gregory Howard ordered West Chester Hospital to treat Jeffrey Smith, 51, with ivermectin for three weeks, as requested by his wife.",
+            "url": "https://www.washingtonpost.com/health/2021/08/31/ohio-ivermectin-lawsuit-hospital-covid/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDHX6SAJYII6ZJ6IMG5XWO7WFA.jpg&w=1440",
+            "publishedAt": "2021-08-31T22:24:58Z",
+            "content": "Yet when Julie Smith got a prescription from an Ohio doctor, a hospital in West Chester Township, Ohio, allegedly refused to administer the drug to Jeffrey Smith while he was seriously ill and on a v… [+6143 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hilary Brueck",
+            "title": "CDC shares 8 new charts that show how powerful Pfizer's vaccine is against COVID-19 and the Delta variant - Yahoo! Voices",
+            "description": "A panel of independent experts spent a day pouring over this data, then voted unanimously to recommend Pfizer's shot to everyone over 16 on Monday.",
+            "url": "https://www.businessinsider.com/cdc-charts-show-pfizer-vaccine-works-against-covid-delta-2021-8",
+            "urlToImage": "https://i.insider.com/612d508e9ef1e50018f8d90c?width=1200&format=jpeg",
+            "publishedAt": "2021-08-31T20:51:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Chia-Yi Hou",
+            "title": "What you need to know about the new COVID-19 variant C.1.2 detected in South Africa | TheHill - The Hill",
+            "description": "Although not a variant of interest or concern yet, experts are closely watching it because of its similarities to delta.",
+            "url": "https://thehill.com/changing-america/well-being/prevention-cures/570187-what-you-need-to-know-about-the-new-covid-19",
+            "urlToImage": "https://thehill.com/sites/default/files/ca_southafrica_coronavirus_082521gettyimages.jpg",
+            "publishedAt": "2021-08-31T17:56:04Z",
+            "content": "A new variant of the virus that causes COVID-19, named C.1.2, was first detected in May in South Africa. Since then, it has been found in seven other countries including the Democratic Republic of th… [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Katherine Rodriguez | NJ Advance Media for NJ.com",
+            "title": "Moderna vaccine could create twice as many COVID antibodies as Pfizer vaccine, study says - NJ.com",
+            "description": "Moderna's COVID-19 vaccine created more than twice the antibodies than the Pfizer COVID-19 vaccine, according to a study comparing the immune responses to the inoculations.",
+            "url": "https://www.nj.com/coronavirus/2021/08/moderna-vaccine-could-create-twice-as-many-covid-antibodies-as-pfizer-vaccine-study-says.html",
+            "urlToImage": "https://www.nj.com/resizer/uCI5UTHasNylEelCOTslWrUVkwI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZDCVR5IENZA4HGSDHG3DFGEWBI.jpeg",
+            "publishedAt": "2021-08-31T16:25:00Z",
+            "content": "Modernas COVID-19 vaccine created more than twice the antibodies than the Pfizer COVID-19 vaccine, according to a study comparing the immune responses to the inoculations.\r\nThe study of nearly 2,500 … [+1298 chars]"
+        }
+    ]
+}
